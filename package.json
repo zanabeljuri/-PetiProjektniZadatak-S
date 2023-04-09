@@ -1,0 +1,11 @@
+{
+  "name": "peti",
+  "version": "1.0.0",
+  "description": "projekat peti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zana Beljuri",
+  "license": "ISC"
+}
